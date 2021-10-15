@@ -1,0 +1,128 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-10-23T07:04:30.940Z,-25.634,-179.9621,454,6.1,mww,,23,4.025,0.83,us,us6000cbx8,2021-01-09T20:05:21.040Z,"south of the Fiji Islands",earthquake,5.9,2,0.05,38,reviewed,us,us
+2020-09-07T06:12:39.688Z,-17.1102,168.5034,10,6.2,mww,,41,2.072,1.03,us,us7000bj6y,2020-11-29T09:47:05.444Z,"72 km NNE of Port-Vila, Vanuatu",earthquake,6.9,1.8,0.058,29,reviewed,us,us
+2020-09-06T02:59:16.073Z,-17.1562,167.5321,10,6.2,mww,,59,1.728,1.19,us,us7000birm,2020-11-17T19:44:43.040Z,"104 km NW of Port-Vila, Vanuatu",earthquake,6.1,0.9,0.052,36,reviewed,us,us
+2020-08-05T12:05:36.589Z,-16.0944,168.065,181.88,6.4,mww,,24,1.05,0.78,us,us6000b9mv,2020-10-21T22:03:52.040Z,"69 km E of Lakatoro, Vanuatu",earthquake,7.6,2.9,0.034,83,reviewed,us,us
+2020-07-21T20:56:25.167Z,-20.8045,-178.6325,605.2,6,mww,,34,6.479,0.98,us,us7000asms,2020-09-26T16:58:44.040Z,"Fiji region",earthquake,8.6,2.9,0.068,21,reviewed,us,us
+2020-05-27T07:09:09.853Z,-17.5304,167.8743,9.73,6.2,mww,,27,3.932,1.24,us,us60009zv5,2020-08-15T20:19:36.040Z,"51 km WNW of Port-Vila, Vanuatu",earthquake,9.2,3,0.049,40,reviewed,us,us
+2020-05-12T22:41:12.177Z,-12.0665,166.6485,107,6.6,mww,,12,3.403,1.12,us,us70009f12,2020-07-29T22:14:41.040Z,"175 km SSE of Lata, Solomon Islands",earthquake,7.5,1.8,0.05,39,reviewed,us,us
+2020-03-18T17:45:39.299Z,-11.0521,115.1378,20.68,6.2,mww,,24,2.743,1.19,us,us60008hzl,2020-06-06T20:53:49.040Z,"249 km S of Nusa Dua, Indonesia",earthquake,7.1,3.1,0.038,65,reviewed,us,us
+2020-03-18T03:13:45.742Z,-13.1364,167.0277,176,6.1,mww,,23,2.303,0.8,us,us60008hkg,2020-06-06T20:53:45.040Z,"99 km NW of Sola, Vanuatu",earthquake,8.5,1.8,0.043,51,reviewed,us,us
+2020-01-29T13:49:49.744Z,-10.418,161.2756,85,6,mww,,20,1.63,0.8,us,us60007j2w,2020-04-18T22:09:52.040Z,"70 km W of Kirakira, Solomon Islands",earthquake,6.4,1.8,0.041,57,reviewed,us,us
+2020-01-27T05:02:01.704Z,-10.0929,161.0606,21,6.3,mww,,18,8.012,0.98,us,us60007gyx,2020-04-11T18:20:54.040Z,"102 km WNW of Kirakira, Solomon Islands",earthquake,5.2,1.8,0.043,51,reviewed,us,us
+2019-12-14T04:57:34.937Z,-14.3628,167.7089,7.51,6,mww,,25,1.183,1.38,us,us60006rem,2020-07-10T17:37:38.138Z,"56 km SSE of Sola, Vanuatu",earthquake,7.4,3.4,0.058,29,reviewed,us,us
+2019-12-04T20:10:03.595Z,-19.0677,169.5748,266,6,mww,,20,2.804,0.72,us,us60006m2j,2020-02-29T19:53:03.040Z,"60 km NNE of Isangel, Vanuatu",earthquake,7.3,1.8,0.037,71,reviewed,us,us
+2019-11-08T10:44:44.338Z,-21.9449,-179.5113,577,6.5,mww,,25,4.765,0.83,us,us6000693m,2020-02-01T23:21:56.040Z,"Fiji region",earthquake,9.2,1.9,0.042,55,reviewed,us,us
+2019-11-06T00:39:09.303Z,-13.7208,167.8086,10,6,mww,,36,1.813,1.07,us,us700063sp,2020-07-10T17:52:35.122Z,"Vanuatu",earthquake,8,1.7,0.061,26,reviewed,us,us
+2019-11-05T23:17:26.588Z,-13.7988,167.7494,19,6,mww,,38,1.721,0.9,us,us700063rx,2020-07-10T17:52:20.510Z,"23 km ENE of Sola, Vanuatu",earthquake,9.2,1.8,0.065,23,reviewed,us,us
+2019-10-21T02:52:29.674Z,-19.0184,169.4883,231,6.4,mww,,23,2.806,0.91,us,us70005wj6,2020-01-03T16:09:41.040Z,"61 km NNE of Isangel, Vanuatu",earthquake,7.1,0.8,0.035,78,reviewed,us,us
+2019-08-24T15:51:27.119Z,-14.309,167.1897,115,6,mww,,26,1.131,1.19,us,us700057v4,2019-11-08T22:13:46.040Z,"61 km SW of Sola, Vanuatu",earthquake,8.7,1.8,0.043,53,reviewed,us,us
+2019-08-21T14:28:25.652Z,-50.3302,139.324,10,6,mww,,67,9.234,0.66,us,us600057xt,2019-11-08T22:13:37.040Z,"western Indian-Antarctic Ridge",earthquake,7.9,1.7,0.071,19,reviewed,us,us
+2019-08-20T13:03:52.633Z,-11.3683,166.2912,37,6,mww,,42,4.15,0.99,us,us600057ee,2020-07-10T17:34:29.511Z,"Santa Cruz Islands",earthquake,7.7,1.9,0.066,22,reviewed,us,us
+2019-07-31T15:02:33.853Z,-16.1985,167.9982,181,6.6,mww,,30,6.024,0.99,us,us60004xz4,2019-10-19T21:42:01.040Z,"63 km E of Lakatoro, Vanuatu",earthquake,7.6,1.8,0.038,65,reviewed,us,us
+2019-07-14T05:39:23.420Z,-18.2242,120.3584,10,6.6,mww,,32,2.978,0.7,us,us70004jxe,2020-07-10T17:44:37.654Z,"198 km W of Cable Beach, Australia",earthquake,6.5,1.5,0.029,116,reviewed,us,us
+2019-07-01T17:13:28.400Z,-15.4403,167.531,91,6,mww,,53,6.675,1.11,us,us70004840,2019-09-14T16:08:27.040Z,"40 km ENE of Luganville, Vanuatu",earthquake,8.6,1.9,0.048,41,reviewed,us,us
+2019-06-27T11:04:56.341Z,-30.3961,-179.182,10,6.3,mww,,43,1.581,1.15,us,us700045vh,2019-09-14T16:08:13.040Z,"Kermadec Islands region",earthquake,7.8,1.7,0.063,24,reviewed,us,us
+2019-05-19T14:56:50.691Z,-21.6074,169.4692,20,6.3,mww,,75,2.125,1.07,us,us70003n96,2019-08-07T22:03:52.040Z,"164 km E of Tadine, New Caledonia",earthquake,8.2,1.9,0.049,40,reviewed,us,us
+2019-05-19T14:27:11.826Z,-21.7313,169.5758,16,6,mww,,53,2.159,1.03,us,us70003n8z,2019-08-07T22:03:52.040Z,"176 km E of Tadine, New Caledonia",earthquake,6.7,1.8,0.052,35,reviewed,us,us
+2019-05-19T01:23:29.151Z,-21.6619,169.7779,20,6.3,mww,,18,2.359,1.18,us,us70003n4z,2019-08-07T22:03:50.040Z,"196 km E of Tadine, New Caledonia",earthquake,7.9,1.8,0.042,54,reviewed,us,us
+2019-04-23T14:20:17.830Z,-24.7059,-178.7639,385.58,6,mww,,34,7.535,0.97,us,us70003an0,2019-07-13T18:42:35.040Z,"south of the Fiji Islands",earthquake,7.4,3.7,0.049,40,reviewed,us,us
+2019-04-18T14:46:01.733Z,-51.127,139.321,10,6.3,mww,,44,9.863,1.39,us,us700038m1,2019-06-26T20:54:51.040Z,"western Indian-Antarctic Ridge",earthquake,10.1,1.8,0.049,40,reviewed,us,us
+2019-03-20T15:23:58.680Z,-15.5965,167.6551,119,6.3,mww,,21,6.542,0.87,us,us1000jj9r,2020-07-10T16:04:35.175Z,"53 km E of Luganville, Vanuatu",earthquake,5.9,1.8,0.036,76,reviewed,us,us
+2019-03-10T12:48:00.607Z,-10.1317,152.0647,9,6,mww,,35,4.888,0.75,us,us1000jd7d,2019-05-24T21:21:26.040Z,"162 km ENE of Samarai, Papua New Guinea",earthquake,7.1,1.8,0.039,64,reviewed,us,us
+2019-03-10T08:12:26.426Z,-17.8915,-178.6034,578.19,6.2,mww,,19,3.188,1.03,us,us1000jd55,2019-05-24T21:21:26.040Z,"221 km E of Levuka, Fiji",earthquake,9.4,3.2,0.06,27,reviewed,us,us
+2019-01-26T19:56:44.070Z,-21.0475,-178.9592,588,6.2,mww,,17,4.329,0.86,us,us2000j98z,2019-04-12T17:15:29.040Z,"Fiji region",earthquake,9.1,1.9,0.051,37,reviewed,us,us
+2019-01-22T05:10:03.480Z,-10.4148,119.0165,24,6.3,mww,,32,3.635,1.33,us,us2000j73a,2019-04-12T17:13:49.040Z,"160 km WSW of Waingapu, Indonesia",earthquake,5.4,1.8,0.046,46,reviewed,us,us
+2019-01-21T23:59:23.860Z,-10.3278,119.1521,26,6,mww,,41,3.477,1.18,us,us2000j70q,2019-04-05T21:41:02.040Z,"142 km WSW of Waingapu, Indonesia",earthquake,6.2,1.8,0.039,64,reviewed,us,us
+2019-01-18T13:18:31.030Z,-19.2036,168.7446,38.67,6,mww,,19,3.575,0.76,us,us2000j5qu,2019-04-05T21:41:00.040Z,"67 km WNW of Isangel, Vanuatu",earthquake,7.7,3.4,0.048,42,reviewed,us,us
+2019-01-15T18:06:34.300Z,-13.336,166.8752,35,6.6,mww,,18,7.818,0.75,us,us2000j468,2021-09-02T11:11:45.607Z,"94 km NW of Sola, Vanuatu",earthquake,8.2,1.9,0.038,66,reviewed,us,us
+2018-12-22T14:25:01.180Z,-13.4,166.8151,42,6,mww,,33,2.069,1.11,us,us2000iwat,2019-02-23T20:22:28.040Z,"95 km WNW of Sola, Vanuatu",earthquake,7.1,1.9,0.043,53,reviewed,us,us
+2018-12-05T06:43:04.130Z,-22.0629,169.7331,10,6.6,mww,,31,2.679,0.97,us,us1000i2k0,2019-02-16T19:52:21.040Z,"199 km ESE of Tadine, New Caledonia",earthquake,7.9,1.8,0.044,50,reviewed,us,us
+2018-12-05T04:18:08.420Z,-21.9496,169.4266,10,7.5,mww,,18,2.405,0.74,us,us1000i2gt,2020-07-10T16:02:03.872Z,"166 km ESE of Tadine, New Caledonia",earthquake,5.1,1.5,0.047,44,reviewed,us,us
+2018-12-05T04:14:36.490Z,-22.0161,169.3495,10,6.3,mb,,19,2.696,0.73,us,us1000i2gr,2019-02-16T19:52:20.040Z,"160 km ESE of Tadine, New Caledonia",earthquake,7.4,1.7,0.035,317,reviewed,us,us
+2018-11-18T20:25:46.590Z,-17.8735,-178.9273,540,6.8,mww,,39,2.879,1.3,us,us1000htm5,2019-01-30T18:36:21.040Z,"187 km E of Levuka, Fiji",earthquake,8.1,1.9,0.038,65,reviewed,us,us
+2018-11-16T03:26:55.640Z,-10.5383,163.1676,10,6.2,mww,,25,3.354,1.18,us,us1000hsie,2019-01-30T18:36:21.040Z,"136 km E of Kirakira, Solomon Islands",earthquake,8.4,1.8,0.05,39,reviewed,us,us
+2018-10-30T02:13:39.480Z,-39.057,174.9584,225.48,6.1,mww,,21,0.549,0.87,us,us1000hiup,2019-01-21T14:29:39.040Z,"62 km E of Waitara, New Zealand",earthquake,6.4,3.1,0.043,53,reviewed,us,us
+2018-10-16T01:03:43.580Z,-21.7427,169.5217,17,6.5,mww,,22,2.109,0.76,us,us1000hclz,2018-12-21T22:27:01.040Z,"171 km E of Tadine, New Caledonia",earthquake,7.2,1.6,0.046,45,reviewed,us,us
+2018-10-16T00:28:13.060Z,-21.9232,169.4869,12,6.3,mww,,19,2.01,1.33,us,us1000hcln,2018-12-21T22:27:01.040Z,"171 km ESE of Tadine, New Caledonia",earthquake,7.1,1.7,0.054,33,reviewed,us,us
+2018-10-01T23:59:42.740Z,-10.5585,120.2424,29,6,mww,,19,2.742,1.32,us,us1000h5eg,2020-07-10T15:57:14.369Z,"99 km S of Waingapu, Indonesia",earthquake,5.3,1.9,0.047,44,reviewed,us,us
+2018-09-16T21:11:48.820Z,-25.415,178.1991,576,6.5,mww,,18,5.139,0.75,us,us2000hfjk,2018-11-21T18:19:13.040Z,"south of the Fiji Islands",earthquake,9.3,1.9,0.06,27,reviewed,us,us
+2018-09-10T19:31:37.420Z,-21.988,170.1584,12,6.3,mww,,29,2.587,1.02,us,us2000hc1x,2018-11-21T18:19:08.040Z,"240 km ESE of Tadine, New Caledonia",earthquake,8.7,1.6,0.036,74,reviewed,us,us
+2018-09-10T04:19:02.630Z,-31.7447,-179.3728,115,6.9,mww,,18,2.785,0.97,us,us2000hbpv,2018-11-21T18:19:07.040Z,"Kermadec Islands region",earthquake,8.7,1.8,0.034,83,reviewed,us,us
+2018-09-06T15:49:18.710Z,-18.4743,179.3502,670.81,7.9,mww,,12,1.431,1.07,us,us2000h9e2,2021-08-31T18:40:47.828Z,"45 km S of Levuka, Fiji",earthquake,9.5,2.8,0.025,157,reviewed,us,us
+2018-08-29T03:51:56.100Z,-22.0295,170.1262,21.43,7.1,mww,,23,2.548,0.98,us,us1000gjaz,2018-11-07T18:37:04.040Z,"238 km ESE of Tadine, New Caledonia",earthquake,5.8,2.8,0.049,40,reviewed,us,us
+2018-08-28T07:08:11.360Z,-10.773,124.1871,14,6.2,mww,,74,1.014,1.4,us,us1000gii0,2021-09-16T11:00:03.077Z,"92 km SE of Kupang, Indonesia",earthquake,8.9,1.8,0.053,34,reviewed,us,us
+2018-08-21T22:32:26.470Z,-16.0315,168.1428,9,6.5,mww,,10,4.797,0.74,us,us1000gf2g,2020-07-10T15:53:51.223Z,"78 km E of Lakatoro, Vanuatu",earthquake,7.4,1.7,0.098,10,reviewed,us,us
+2018-07-17T07:02:53.020Z,-11.5936,166.432,37.96,6,mww,,43,6.726,0.88,us,us2000g6uy,2018-10-04T14:15:33.040Z,"118 km SE of Lata, Solomon Islands",earthquake,8.6,4.1,0.053,34,reviewed,us,us
+2018-07-13T09:46:49.070Z,-18.9279,169.0467,167,6.4,mww,,19,2.505,0.96,us,us2000g3up,2018-10-02T16:40:37.040Z,"72 km NNW of Isangel, Vanuatu",earthquake,7.3,1.8,0.037,71,reviewed,us,us
+2018-06-21T21:13:32.660Z,-17.7905,168.0568,28,6.1,mww,,14,3.069,1.27,us,us1000ey2i,2020-07-10T15:50:16.806Z,"27 km WSW of Port-Vila, Vanuatu",earthquake,6.3,1.7,0.04,59,reviewed,us,us
+2018-02-09T11:43:56.760Z,-17.8709,-178.6605,556.91,6,mww,,35,7.704,0.9,us,us2000czgc,2018-05-03T22:15:06.040Z,"215 km E of Levuka, Fiji",earthquake,9.4,3.1,0.051,37,reviewed,us,us
+2017-11-20T00:09:23.730Z,-21.4848,168.8088,10,6,mww,,22,0.724,0.99,us,us2000brnd,2018-02-14T02:01:05.040Z,"96 km E of Tadine, New Caledonia",earthquake,4.4,1.7,0.073,18,reviewed,us,us
+2017-11-19T22:43:29.250Z,-21.3246,168.6715,10,7,mww,,14,0.617,0.65,us,us2000brlf,2020-07-10T16:57:17.567Z,"85 km ENE of Tadine, New Caledonia",earthquake,5.6,1.7,0.071,19,reviewed,us,us
+2017-11-19T15:09:02.880Z,-21.5027,168.5984,13,6.6,mww,,21,0.529,0.85,us,us2000brgk,2020-07-10T16:56:53.900Z,"74 km E of Tadine, New Caledonia",earthquake,4.9,1.7,0.037,72,reviewed,us,us
+2017-11-19T09:25:48.730Z,-21.6377,168.6729,14,6.3,mww,,22,0.618,1.19,us,us2000brbk,2018-02-14T02:01:02.040Z,"82 km E of Tadine, New Caledonia",earthquake,5.5,1.7,0.042,54,reviewed,us,us
+2017-11-01T02:23:57.670Z,-21.6484,168.8585,22,6.6,mww,,29,0.788,1.39,us,us1000azjt,2018-01-24T01:25:03.040Z,"101 km E of Tadine, New Caledonia",earthquake,6.8,1.8,0.038,66,reviewed,us,us
+2017-11-01T00:09:30.120Z,-21.7278,168.9342,11,6.1,mww,,21,0.876,1.09,us,us1000azi3,2018-01-24T01:25:02.040Z,"110 km E of Tadine, New Caledonia",earthquake,6.8,1.7,0.045,48,reviewed,us,us
+2017-10-31T00:42:08.720Z,-21.6971,169.1485,24,6.7,mww,,55,1.062,1.46,us,us1000aytk,2018-01-24T01:25:00.040Z,"132 km E of Tadine, New Caledonia",earthquake,6.5,1.8,0.038,68,reviewed,us,us
+2017-09-20T20:09:49.610Z,-18.7854,169.0946,197,6.4,mww,,18,2.641,0.99,us,us2000as2f,2017-12-19T01:54:09.040Z,"85 km NNW of Isangel, Vanuatu",earthquake,7.6,1.9,0.05,39,reviewed,us,us
+2017-09-20T01:43:25.980Z,-50.7087,162.6317,8,6.1,mww,,56,4.407,0.88,us,us2000arel,2017-12-19T01:54:07.040Z,"Auckland Islands, New Zealand region",earthquake,4.3,1.7,0.065,23,reviewed,us,us
+2017-08-19T02:00:52.550Z,-17.9609,-178.8406,544,6.4,mww,,10,2.966,0.96,us,us2000a9n1,2017-11-14T01:42:14.040Z,"195 km E of Levuka, Fiji",earthquake,8.1,1.9,0.046,46,reviewed,us,us
+2017-07-11T07:00:01.190Z,-49.4837,164.0157,10,6.6,mww,,37,3.773,1.5,us,us100098qm,2017-10-06T23:56:13.040Z,"Auckland Islands, New Zealand region",earthquake,7.2,1.7,0.057,30,reviewed,us,us
+2017-06-29T07:03:11.040Z,-31.1253,179.9257,404.82,6,mww,,52,2.638,0.83,us,us1000954z,2017-09-27T02:03:18.040Z,"Kermadec Islands region",earthquake,9.3,3.6,0.052,35,reviewed,us,us
+2017-06-17T22:26:02.010Z,-24.0927,179.6041,511,6.1,mww,,13,5.585,0.83,us,us20009nc2,2017-08-18T23:13:32.040Z,"south of the Fiji Islands",earthquake,9,1.9,0.053,34,reviewed,us,us
+2017-05-09T13:52:10.940Z,-14.5884,167.3767,169,6.8,mww,,19,7.495,0.97,us,us10008qsb,2021-08-18T21:39:56.852Z,"59 km NNE of Port-Olry, Vanuatu",earthquake,8.7,1.9,0.052,35,reviewed,us,us
+2017-02-24T17:28:44.840Z,-23.2593,-178.8036,414.5,6.9,mww,,19,6.012,0.95,us,us20008m3t,2017-05-17T01:19:38.040Z,"south of the Fiji Islands",earthquake,8.6,3.5,,,reviewed,us,us
+2017-01-19T23:04:21.150Z,-10.3506,161.3355,36,6.5,mww,,21,1.64,0.85,us,us10007u7n,2020-07-10T15:22:15.858Z,"65 km W of Kirakira, Solomon Islands",earthquake,6.6,1.8,,,reviewed,us,us
+2017-01-10T15:27:14.780Z,-10.1132,161.0271,26,6.3,mww,,14,1.257,0.69,us,us10007sd4,2020-07-10T15:20:26.934Z,"104 km WNW of Kirakira, Solomon Islands",earthquake,7.2,1.7,,,reviewed,us,us
+2017-01-03T22:40:12.570Z,-19.1207,176.1875,10,6,mww,,26,2.237,1.01,us,us10007pjt,2017-03-27T23:53:21.040Z,"195 km SW of Nadi, Fiji",earthquake,7.6,1.7,0.073,18,reviewed,us,us
+2017-01-03T21:52:30.670Z,-19.3733,176.0518,12,6.9,mww,,13,2.495,0.9,us,us10007pj6,2018-08-09T08:22:53.091Z,"225 km SW of Nadi, Fiji",earthquake,7.3,1.7,,,reviewed,us,us
+2017-01-02T13:14:02.830Z,-23.2513,179.2383,551.62,6.3,mww,,36,5.59,0.88,us,us10007p7m,2021-08-30T03:14:14.890Z,"south of the Fiji Islands",earthquake,9.9,3.3,0.05,38,reviewed,us,us
+2016-12-20T12:33:14.240Z,-10.1785,160.9149,10,6,mww,,14,1.204,0.88,us,us200082tk,2020-07-10T16:39:41.163Z,"114 km WNW of Kirakira, Solomon Islands",earthquake,5.7,1.6,,,reviewed,us,us
+2016-12-20T04:21:29.150Z,-10.175,161.2271,20,6.4,mww,,21,1.458,0.87,us,us200082pp,2020-07-10T16:39:19.145Z,"81 km WNW of Kirakira, Solomon Islands",earthquake,8,1.7,,,reviewed,us,us
+2016-12-09T19:10:06.840Z,-10.749,161.1316,19.73,6.9,mww,,26,1.747,0.88,us,us20007zlq,2020-07-10T16:36:47.585Z,"92 km WSW of Kirakira, Solomon Islands",earthquake,7,2.6,,,reviewed,us,us
+2016-12-08T21:56:07.500Z,-10.8416,161.3137,12.26,6.5,mww,,18,1.937,0.98,us,us20007zbn,2020-07-10T16:36:33.519Z,"79 km WSW of Kirakira, Solomon Islands",earthquake,7.1,1.5,,,reviewed,us,us
+2016-12-08T17:38:46.280Z,-10.6812,161.3273,40,7.8,mww,,13,1.836,0.88,us,us20007z80,2020-07-10T16:36:11.529Z,"69 km WSW of Kirakira, Solomon Islands",earthquake,8.3,1.8,,,reviewed,us,us
+2016-11-14T00:34:22.610Z,-42.6058,173.2543,9,6.5,mww,,56,0.283,1.05,us,us100077hw,2020-07-23T09:03:15.036Z,"74 km NE of Amberley, New Zealand",earthquake,4,1.7,,,reviewed,us,us
+2016-11-13T13:31:25.660Z,-42.3093,173.6961,2.09,6.2,mww,,61,0.157,0.64,us,us100077aj,2017-02-09T03:02:22.040Z,"90 km SSW of Blenheim, New Zealand",earthquake,3.6,3.1,,,reviewed,us,us
+2016-11-13T11:52:45.010Z,-42.1762,173.6227,13.99,6.1,mww,,64,0.247,1.1,us,us1000779b,2017-02-09T03:02:21.040Z,"78 km SSW of Blenheim, New Zealand",earthquake,4,2.6,,,reviewed,us,us
+2016-11-13T11:32:06.540Z,-42.3205,173.6694,10,6.5,mww,,58,0.135,1.45,us,us10007795,2017-02-09T03:02:21.040Z,"92 km SSW of Blenheim, New Zealand",earthquake,4.4,1.7,,,reviewed,us,us
+2016-11-13T11:02:56.340Z,-42.7373,173.054,15.11,7.8,mww,,21,0.481,0.56,us,us1000778i,2021-10-01T03:07:23.240Z,"53 km NNE of Amberley, New Zealand",earthquake,4.6,3.2,,,reviewed,us,us
+2016-09-08T21:46:20.100Z,-54.6136,158.7126,10,6.1,mww,,45,0.182,0.81,us,us10006n6r,2016-12-03T02:54:49.040Z,"Macquarie Island region",earthquake,7.3,1.6,,,reviewed,us,us
+2016-09-01T17:14:06.060Z,-37.0522,178.9291,13.73,6.1,mww,,56,0.711,0.86,us,us10006jd4,2016-11-29T01:28:50.040Z,"179 km NE of Opotiki, New Zealand",earthquake,7.6,3.2,,,reviewed,us,us
+2016-09-01T16:37:57.300Z,-37.3586,179.1461,19,7,mww,,21,0.698,0.88,us,us10006jbi,2018-10-17T21:50:25.788Z,"175 km NE of Gisborne, New Zealand",earthquake,6.8,1.7,,,reviewed,us,us
+2016-08-12T01:26:36.280Z,-22.4765,173.1167,16.37,7.2,mww,,14,4.823,0.9,us,us10006d5h,2018-10-17T21:50:00.178Z,"southeast of the Loyalty Islands",earthquake,6.7,2.6,,,reviewed,us,us
+2016-07-20T15:13:16.520Z,-18.9285,169.0547,167,6.1,mww,,18,2.509,0.98,us,us20006g6l,2016-11-10T22:17:24.543Z,"71 km NNW of Isangel, Vanuatu",earthquake,7.2,1.8,,,reviewed,us,us
+2016-06-30T11:30:33.050Z,-16.0558,167.4701,27,6,mww,,22,4.701,1.37,us,us10005yp3,2017-10-11T21:30:31.769Z,"7 km NE of Lakatoro, Vanuatu",earthquake,7.3,1.8,,,reviewed,us,us
+2016-06-20T03:50:55.240Z,-20.2072,168.7595,15,6,mww,,20,1.439,1.24,us,us200065g0,2016-11-10T22:16:43.414Z,"91 km SW of Isangel, Vanuatu",earthquake,7.8,1.7,,,reviewed,us,us
+2016-06-19T09:47:23.600Z,-20.2793,169.0737,13,6.3,mww,,64,13.92,1.05,us,us200065d1,2016-11-10T22:16:40.064Z,"84 km SSW of Isangel, Vanuatu",earthquake,10.4,1.8,,,reviewed,us,us
+2016-06-14T13:49:22.630Z,-18.7609,168.8279,111,6.2,mww,,17,2.807,0.72,us,us200064bb,2016-11-10T22:16:29.670Z,"98 km NNW of Isangel, Vanuatu",earthquake,6.8,1.8,,,reviewed,us,us
+2016-06-09T04:13:08.130Z,-11.2487,116.2669,19,6.1,mww,,27,3.459,0.76,us,us200062zs,2016-11-10T22:16:21.322Z,"279 km S of Lembar, Indonesia",earthquake,6.6,1.7,,,reviewed,us,us
+2016-05-27T04:08:43.950Z,-20.8101,-178.6481,567.48,6.4,mww,,16,4.359,0.86,us,us20005yd7,2016-11-10T22:15:55.660Z,"Fiji region",earthquake,7.2,3.8,,,reviewed,us,us
+2016-05-20T18:14:04.670Z,-25.5655,129.8841,10,6,mww,,24,1.53,1.33,us,us10005iyk,2018-03-13T01:22:51.756Z,"116 km WSW of Yulara, Australia",earthquake,2.2,1.7,,,reviewed,us,us
+2016-04-28T19:33:24.070Z,-16.0429,167.3786,24,7,mww,,14,0.616,1.33,us,us10005c88,2020-07-07T22:46:19.355Z,"3 km NW of Norsup, Vanuatu",earthquake,2.9,1.7,,,reviewed,us,us
+2016-04-14T21:50:27.680Z,-14.5284,166.4334,16,6.4,mww,,23,1.178,1.05,us,us20005i6p,2020-07-10T16:27:14.017Z,"89 km NW of Port-Olry, Vanuatu",earthquake,6.4,1.6,,,reviewed,us,us
+2016-04-07T03:32:53.500Z,-13.9805,166.5943,27.59,6.7,mww,,25,6.787,0.76,us,us20005fzn,2017-10-11T21:23:46.285Z,"104 km W of Sola, Vanuatu",earthquake,7.1,3.1,,,reviewed,us,us
+2016-04-06T06:58:48.210Z,-14.0683,166.6245,24,6.7,mww,,19,6.697,1.22,us,us20005fsi,2017-10-11T21:23:35.358Z,"102 km WSW of Sola, Vanuatu",earthquake,7.6,1.8,,,reviewed,us,us
+2016-04-03T08:23:52.320Z,-14.3235,166.8551,26,6.9,mww,,25,1.166,1.09,us,us20005e8t,2017-10-11T21:23:16.268Z,"82 km NNW of Port-Olry, Vanuatu",earthquake,6.4,1.7,,,reviewed,us,us
+2016-02-27T21:29:43.570Z,-51.7897,139.5956,10,6.1,mww,,44,10.307,0.61,us,us10004t7g,2016-11-10T22:14:02.480Z,"western Indian-Antarctic Ridge",earthquake,8.8,1.7,,,reviewed,us,us
+2016-02-01T19:00:46.280Z,-30.7539,-179.9504,391,6.2,mww,,14,2.31,1.03,us,us20004wck,2016-11-10T22:10:52.099Z,"Kermadec Islands region",earthquake,8.7,1.8,,,reviewed,us,us
+2016-01-01T02:00:39.950Z,-50.5575,139.4489,10,6.3,mww,,19,9.361,0.88,us,us10004ant,2016-11-10T22:06:44.164Z,"western Indian-Antarctic Ridge",earthquake,6.9,1.6,,,reviewed,us,us
+2015-12-19T02:10:53.360Z,-18.3819,169.3857,10,6,mww,,22,3.125,0.87,us,us1000489i,2016-11-10T22:05:06.599Z,"128 km N of Isangel, Vanuatu",earthquake,6.8,1.7,,,reviewed,us,us
+2015-12-09T12:58:01.780Z,-16.7374,175.2475,10,6.1,mww,,65,2.861,0.8,us,us20004fuz,2016-11-10T22:04:05.897Z,"253 km WNW of Lautoka, Fiji",earthquake,7.8,1.8,,,reviewed,us,us
+2015-10-20T21:52:02.560Z,-14.8595,167.3028,135,7.1,mww,,11,0.592,1.02,us,us10003q0q,2020-07-10T14:47:19.718Z,"31 km NE of Port-Olry, Vanuatu",earthquake,4.3,1.8,,,reviewed,us,us
+2015-09-07T08:46:09.050Z,-24.2427,179.1278,535,6,mww,,21,5.634,1.1,us,us20003h2i,2016-11-10T21:50:58.449Z,"south of the Fiji Islands",earthquake,8.7,1.9,,,reviewed,us,us
+2015-08-24T09:41:26.630Z,-30.6502,-178.7298,228,6,mww,,59,1.563,1.32,us,us100034fl,2016-11-10T21:49:57.495Z,"Kermadec Islands, New Zealand",earthquake,8.5,1.9,,,reviewed,us,us
+2015-08-15T07:47:06.500Z,-10.8968,163.8226,8,6.4,mww,,21,4.08,0.64,us,us100032k6,2016-11-10T21:49:49.541Z,"213 km ESE of Kirakira, Solomon Islands",earthquake,6.3,1.7,,,reviewed,us,us
+2015-07-18T02:27:33.820Z,-10.4012,165.1409,11,7,mww,,22,5.205,1.09,us,us20002yaw,2017-11-14T16:45:10.395Z,"80 km WNW of Lata, Solomon Islands",earthquake,7.2,1.7,,,reviewed,us,us
+2015-07-01T19:35:21.460Z,-10.9911,162.5558,12,6,mww,,24,2.995,0.77,us,us10002mw0,2020-07-10T14:41:43.363Z,"91 km SE of Kirakira, Solomon Islands",earthquake,7.7,1.7,,,reviewed,us,us
+2015-05-22T23:59:33.770Z,-11.1093,163.2154,10,6.8,mww,,18,3.619,0.81,us,us10002bpw,2020-07-10T14:40:09.942Z,"159 km ESE of Kirakira, Solomon Islands",earthquake,7.6,1.7,,,reviewed,us,us
+2015-05-22T21:45:19.480Z,-11.0559,163.6959,11.19,6.9,mww,,22,4.024,1.37,us,us10002bnk,2016-11-10T21:47:39.262Z,"205 km ESE of Kirakira, Solomon Islands",earthquake,7.2,3.1,,,reviewed,us,us
+2015-05-20T22:48:53.420Z,-10.8759,164.1694,11,6.8,mww,,15,4.395,0.72,us,us10002b03,2016-11-10T21:47:38.141Z,"178 km W of Lata, Solomon Islands",earthquake,5.3,1.7,,,reviewed,us,us
+2015-04-28T16:39:39.190Z,-20.8865,-178.6329,581,6.1,mww,,13,4.422,0.85,us,us200029x8,2016-11-10T21:47:16.527Z,"Fiji region",earthquake,8.9,1.8,,,reviewed,us,us
+2015-04-24T03:36:42.400Z,-42.0602,173.0066,48,6.1,mww,,22,0.307,0.93,us,us200028qc,2020-07-10T16:06:04.815Z,"73 km S of Wakefield, New Zealand",earthquake,3.7,1.8,,,reviewed,us,us
+2015-04-22T22:57:15.650Z,-12.039,166.432,72,6.2,mww,,28,6.875,0.66,us,us200028gt,2016-11-10T21:47:11.966Z,"161 km SSE of Lata, Solomon Islands",earthquake,8.4,1.8,,,reviewed,us,us
+2015-04-17T15:52:51.480Z,-15.8815,-178.6005,10,6.5,mww,,42,3.702,1.07,us,us200027c2,2016-11-10T21:47:08.664Z,"181 km SSW of Alo, Wallis and Futuna",earthquake,4.4,1.8,,,reviewed,us,us
+2015-02-19T13:18:32.810Z,-16.4311,168.1483,10,6.4,mww,,33,1.335,1.02,us,usc000trf9,2020-07-10T19:20:11.225Z,"Vanuatu",earthquake,6.2,1.7,,,reviewed,us,us
+2015-02-18T09:32:26.770Z,-10.7598,164.1216,10,6.1,mww,,14,4.314,0.67,us,usb000tq9f,2016-11-10T21:46:31.829Z,"183 km W of Lata, Solomon Islands",earthquake,7.5,1.7,,,reviewed,us,us
+2015-01-30T17:57:56.440Z,-21.2452,170.158,7.08,6,mww,,21,3.551,1.06,us,usc000tker,2016-11-10T21:46:13.435Z,"209 km SSE of Isangel, Vanuatu",earthquake,4.1,3,,,reviewed,us,us
+2015-01-23T03:47:27.050Z,-17.0309,168.52,219.96,6.8,mww,,13,2.019,0.71,us,usc000tihy,2020-07-10T19:19:16.181Z,"81 km NNE of Port-Vila, Vanuatu",earthquake,7.7,1.1,,,reviewed,us,us
