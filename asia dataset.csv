@@ -1,0 +1,87 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-12-29T11:19:54.762Z,45.4244,16.2573,10,6.4,mww,,13,0.941,0.75,us,us6000d3zh,2021-10-13T06:18:38.950Z,"2 km WSW of Petrinja, Croatia",earthquake,4.4,1.8,0.033,89,reviewed,us,us
+2020-12-01T16:22:39.923Z,52.7551,-168.2401,23,6.4,mww,,61,0.64,0.75,us,us7000clnv,2021-10-12T16:32:49.883Z,"",earthquake,3.3,1.7,0.025,150,reviewed,us,us
+2020-10-19T20:54:38.950Z,54.602,-159.6258,28.37,7.6,mww,,36,0.23,0.91,us,us6000c9hg,2021-03-15T15:48:36.759Z,"99 km SE of Sand Point, Alaska",earthquake,5.1,3,0.021,213,reviewed,us,us
+2020-07-28T08:03:43.215Z,54.7905,-161.2041,35.15,6.1,mww,,37,0.523,1.29,us,us6000b56k,2020-10-03T17:32:28.040Z,"75 km SW of Sand Point, Alaska",earthquake,2.6,3.2,0.024,163,reviewed,us,us
+2020-07-22T06:16:18.627Z,54.969,-159.0413,16.53,6.1,mb,,145,0.345,0.73,us,us7000asx4,2020-10-03T17:32:40.040Z,"101 km ESE of Sand Point, Alaska",earthquake,3.6,2.5,0.101,37,reviewed,us,us
+2020-07-22T06:12:44.810Z,55.0715,-158.596,28,7.8,mww,,60,0.621,0.97,us,us7000asvb,2021-07-29T07:12:16.549Z,"99 km SSE of Perryville, Alaska",earthquake,5.4,1.9,0.019,261,reviewed,us,us
+2020-06-23T15:29:04.350Z,15.8861,-96.0077,20,7.4,mww,,30,0.151,1.14,us,us6000ah9t,2021-09-23T18:30:24.995Z,"9 km SE of Santa María Xadani, Mexico",earthquake,2.1,1.8,0.035,79,reviewed,us,us
+2020-06-21T19:07:54.833Z,66.381,-18.707,10,6,mww,,55,1.969,0.87,us,us6000ag18,2021-09-02T14:18:32.772Z,"27 km NNE of Siglufjörður, Iceland",earthquake,6.9,1.8,0.034,81,reviewed,us,us
+2020-05-22T08:46:06.973Z,22.4152,-108.1275,10,6.1,mww,,151,2.097,0.7,us,us70009n5p,2020-08-08T18:17:49.040Z,"173 km ESE of La Playa, Mexico",earthquake,5.5,1.7,0.032,91,reviewed,us,us
+2020-05-15T11:03:27.176Z,38.1689,-117.8497,2.7,6.5,ml,27,55.79,0.357,0.2669,nn,nn00725272,2021-05-15T11:13:44.782Z,"Monte Cristo Range, NV Earthquake",earthquake,,2.1,,,reviewed,nn,nn
+2020-05-02T12:51:05.561Z,34.1818,25.7101,10,6.5,mww,,19,1.293,1.01,us,us700098qd,2020-07-18T21:57:12.040Z,"91 km S of Néa Anatolí, Greece",earthquake,6.7,1.8,0.048,42,reviewed,us,us
+2020-04-16T08:04:37.829Z,16.9591,-85.6851,12,6.1,mww,,30,3.342,0.97,us,us70008xeb,2020-08-10T21:03:14.394Z,"59 km NNE of Savannah Bight, Honduras",earthquake,6.2,1.8,0.035,77,reviewed,us,us
+2020-03-31T23:52:30.781Z,44.4646,-115.1175,12.06,6.5,mww,,31,0.885,0.66,us,us70008jr5,2021-05-21T15:51:31.615Z,"Stanley, Idaho",earthquake,8.5,3.8,0.021,212,reviewed,us,us
+2020-01-28T21:55:16.450Z,18.9457,-80.7411,10,6.1,mww,,66,3.124,0.85,us,us60007iig,2020-04-11T18:21:04.040Z,"55 km SE of East End, Cayman Islands",earthquake,8.2,1.8,0.098,10,reviewed,us,us
+2020-01-28T19:10:24.918Z,19.4193,-78.756,14.86,7.7,mww,,26,1.657,0.75,us,us60007idc,2021-02-03T14:50:33.444Z,"123 km NNW of Lucea, Jamaica",earthquake,6,2.9,0.022,199,reviewed,us,us
+2020-01-07T08:24:25.262Z,17.8686,-66.8266,8.95,6.4,mww,,25,0.117,0.64,us,us70006vll,2021-10-04T18:08:32.122Z,"13 km SSE of Maria Antonia, Puerto Rico",earthquake,2.5,2.1,0.049,40,reviewed,us,us
+2019-12-25T03:36:01.626Z,50.6106,-129.963,6.58,6.3,mww,,77,1.853,0.67,us,us70006qt7,2020-03-14T22:25:03.040Z,"203 km W of Port McNeill, Canada",earthquake,7.2,1.3,0.032,95,reviewed,us,us
+2019-12-23T20:56:23.555Z,50.5169,-129.7573,10,6,mww,,99,1.042,1.05,us,us70006q96,2020-03-07T17:47:53.040Z,"189 km W of Port McNeill, Canada",earthquake,5.7,1.8,0.038,66,reviewed,us,us
+2019-12-23T19:49:43.086Z,50.6071,-129.9372,10,6,mww,,100,1.149,1.06,us,us70006q8n,2020-03-07T17:47:53.040Z,"201 km W of Port McNeill, Canada",earthquake,4.4,1.8,0.03,106,reviewed,us,us
+2019-11-27T07:23:42.383Z,35.7174,23.2284,69,6,mww,,18,1.421,1.02,us,us70006dlt,2020-02-19T18:58:10.040Z,"45 km WNW of Kíssamos, Greece",earthquake,6.5,1.9,0.051,37,reviewed,us,us
+2019-11-26T02:54:12.872Z,41.5138,19.5256,22,6.4,mww,,17,0.936,0.61,us,us70006d0m,2021-01-16T12:28:56.303Z,"15 km WSW of Mamurras, Albania",earthquake,4.3,1.8,0.037,72,reviewed,us,us
+2019-11-20T04:27:05.252Z,13.8859,-93.2068,15,6.3,mww,,56,1.365,0.79,us,us70006a6q,2021-07-12T23:26:26.672Z,"125 km SW of Puerto Madero, Mexico",earthquake,4.4,1.5,0.032,96,reviewed,us,us
+2019-09-24T03:23:40.000Z,19.077,-67.2701,10,6,mw,25,193,0.6299,0.88,pr,pr2019267000,2021-09-08T16:57:55.316Z,"67 km NNW of San Antonio, Puerto Rico",earthquake,3.8,31.61,0.51,25,reviewed,pr,pr
+2019-08-29T15:07:58.646Z,43.5425,-127.8817,10,6.3,mww,,31,2.678,1.17,us,us700059qh,2021-08-14T16:56:05.720Z,"285 km W of Bandon, Oregon",earthquake,6.9,1.8,0.04,60,reviewed,us,us
+2019-07-06T03:19:53.040Z,35.7695,-117.5993333,8,7.1,mw,77,43,0.04616,0.22,ci,ci38457511,2021-10-12T05:53:50.482Z,"2019 Ridgecrest Earthquake Sequence",earthquake,0.19,31.61,,0,reviewed,ci,ci
+2019-07-04T17:33:49.000Z,35.7053333,-117.5038333,10.5,6.4,mw,62,47,0.1233,0.16,ci,ci38443183,2021-10-06T20:56:17.808Z,"Ridgecrest Earthquake Sequence",earthquake,0.15,0.36,,6,reviewed,ci,ci
+2019-07-04T04:30:44.424Z,51.2369,-130.5005,10,6.2,mww,,70,1.143,1.01,us,us700049sf,2019-09-26T14:30:08.040Z,"250 km WNW of Port McNeill, Canada",earthquake,6.6,1.8,0.026,143,reviewed,us,us
+2019-05-30T09:03:32.337Z,13.1994,-89.3056,57.92,6.6,mww,,22,1.193,0.83,us,us70003t2n,2020-07-10T17:41:36.265Z,"32 km S of La Libertad, El Salvador",earthquake,1.7,5.5,0.073,18,reviewed,us,us
+2019-02-14T19:57:04.980Z,35.4267,-36.0378,10,6.2,mww,,32,8.771,0.8,us,us2000ji4e,2019-05-01T22:00:44.040Z,"northern Mid-Atlantic Ridge",earthquake,9.3,1.8,0.034,83,reviewed,us,us
+2019-02-01T16:14:12.329Z,14.6802,-92.4527,66,6.7,mww,,43,0.289,1.36,us,us2000jbub,2021-09-23T02:41:13.397Z,"5 km SW of Puerto Madero, Mexico",earthquake,5.7,1.8,0.065,23,reviewed,us,us
+2018-12-31T02:35:37.670Z,54.4266,-161.5131,31,6,mww,,44,0.92,1.14,us,us2000izcv,2021-05-25T02:53:40.791Z,"87 km SE of King Cove, Alaska",earthquake,4.2,1.8,0.033,89,reviewed,us,us
+2018-11-30T17:29:29.330Z,61.3464,-149.9552,46.7,7.1,mw,,,,1.04,ak,ak018fcnsk91,2020-11-14T22:34:56.488Z,"1 km SE of Point MacKenzie, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2018-11-25T03:40:50.810Z,13.1817,-81.0931,10,6,mww,,25,0.326,0.94,us,us1000hwaj,2020-07-10T16:00:56.718Z,"36 km SE of Mountain, Colombia",earthquake,6.4,1.8,0.045,47,reviewed,us,us
+2018-11-11T14:03:59.560Z,15.5653,-49.8719,10,6.3,mww,,50,9.69,0.65,us,us1000hqkp,2019-01-21T16:42:55.040Z,"North Atlantic Ocean",earthquake,9.2,1.9,0.048,42,reviewed,us,us
+2018-11-09T01:49:40.050Z,71.6312,-11.2431,10,6.7,mww,,19,7.853,0.94,us,us1000hpim,2019-01-21T16:42:56.040Z,"120 km NW of Olonkinbyen, Svalbard and Jan Mayen",earthquake,6.9,1.8,0.034,81,reviewed,us,us
+2018-10-28T22:23:53.420Z,13.0346,-90.3687,22,6.1,mww,,56,1.282,0.86,us,us1000hib5,2019-01-10T17:18:41.040Z,"85 km SW of Acajutla, El Salvador",earthquake,6.7,1.8,0.036,76,reviewed,us,us
+2018-10-25T22:54:52.630Z,37.5203,20.5565,14,6.8,mww,,15,2.268,0.82,us,us1000hhb1,2020-07-10T15:59:46.614Z,"32 km SW of Lithakiá, Greece",earthquake,4.9,1.7,0.043,51,reviewed,us,us
+2018-10-22T06:22:48.120Z,49.297,-129.7237,10,6.5,mww,,68,1.692,0.71,us,us1000hfh3,2019-01-10T17:18:33.040Z,"237 km SW of Port McNeill, Canada",earthquake,3.3,1.7,0.071,19,reviewed,us,us
+2018-10-22T06:16:26.450Z,49.3346,-129.289,10,6.8,mww,,36,1.505,1.09,us,us1000hfgv,2020-08-15T02:48:52.834Z,"210 km SW of Port McNeill, Canada",earthquake,6,1.8,0.042,55,reviewed,us,us
+2018-10-22T05:39:39.590Z,49.2586,-129.4124,10,6.5,mww,,63,1.611,0.94,us,us1000hfgn,2019-01-10T17:18:33.040Z,"223 km SW of Port McNeill, Canada",earthquake,4.4,1.5,0.046,46,reviewed,us,us
+2018-08-22T09:31:45.530Z,43.5637,-127.7166,10,6.2,mww,,67,2.668,0.73,us,us1000gf8u,2019-08-29T15:45:28.639Z,"272 km W of Bandon, Oregon",earthquake,7.1,1.8,0.031,97,reviewed,us,us
+2018-08-12T21:15:00.999Z,69.5227,-144.3388,16.2,6,mw,,,,0.86,ak,ak018aasz24z,2019-07-01T18:10:08.430Z,"73 km SSW of Kaktovik, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2018-08-12T14:58:53.503Z,69.5762,-145.291,15.8,6.4,mw,,,,1.31,ak,ak018aap2cqu,2020-06-18T08:55:18.410Z,"89 km SW of Kaktovik, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2018-05-04T22:32:54.650Z,19.3181667,-154.9996667,5.81,6.9,mw,63,210,0.11,0.11,hv,hv70116556,2021-07-02T15:32:59.963Z,"18 km SSW of Leilani Estates, Hawaii",earthquake,0.52,0.31,,10,reviewed,hv,hv
+2018-02-16T23:39:39.280Z,16.3855,-97.9787,22,7.2,mww,,82,0.142,1.23,us,us2000d3km,2021-10-10T02:34:21.135Z,"4 km S of Pinotepa de Don Luis, Mexico",earthquake,4.3,1.8,0.062,25,reviewed,us,us
+2018-01-23T09:31:40.890Z,56.0039,-149.1658,14.06,7.9,mww,,30,2.585,0.77,us,us2000cmy3,2020-08-15T02:41:12.839Z,"261 km SE of Chiniak, Alaska",earthquake,6,2.8,0.034,81,reviewed,us,us
+2018-01-19T16:17:44.720Z,26.6862,-111.0785,10,6.3,mww,,109,1.214,1.45,us,us2000cl83,2020-07-10T17:00:41.030Z,"79 km NNE of Loreto, Mexico",earthquake,5.7,1.8,0.035,79,reviewed,us,us
+2018-01-10T02:51:33.290Z,17.4825,-83.52,19,7.5,mww,,12,4.581,0.82,us,us1000c2zy,2020-07-10T15:39:48.704Z,"203 km NNE of Barra Patuca, Honduras",earthquake,5.8,1.7,0.035,79,reviewed,us,us
+2017-09-23T12:53:01.480Z,16.6258,-95.0778,10,6.1,mww,,31,1.306,1.32,us,us2000atjv,2021-07-08T04:55:08.635Z,"7 km NNE of Ixtepec, Mexico",earthquake,3.8,1.7,0.042,55,reviewed,us,us
+2017-09-19T18:14:38.090Z,18.5499,-98.4887,48,7.1,mww,,23,0.984,1.14,us,us2000ar20,2021-10-09T19:26:41.518Z,"1 km S of Matzaco, Mexico",earthquake,4.5,1.8,0.048,41,reviewed,us,us
+2017-09-08T04:49:19.180Z,15.0222,-93.8993,47.39,8.2,mww,,22,0.944,1.22,us,us2000ahv0,2021-10-09T18:36:33.653Z,"near the coast of Chiapas, Mexico",earthquake,6.2,3.7,0.058,29,reviewed,us,us
+2017-07-27T17:53:24.610Z,13.396,-49.3259,10,6,mww,,29,8.86,0.87,us,us2000a1uk,2017-10-14T00:19:43.040Z,"North Atlantic Ocean",earthquake,7.6,1.7,0.078,16,reviewed,us,us
+2017-06-22T12:31:03.490Z,13.7174,-90.9718,38.12,6.8,mww,,38,1.065,1.46,us,us20009p1a,2020-07-10T16:44:40.407Z,"28 km SW of Puerto San José, Guatemala",earthquake,6.8,3.5,0.028,123,reviewed,us,us
+2017-06-14T07:29:04.390Z,14.9091,-92.0092,93,6.9,mww,,35,0.247,1.42,us,us20009mbt,2021-07-03T00:13:38.365Z,"2 km SSW of San Pablo, Guatemala",earthquake,2.8,2.2,0.026,146,reviewed,us,us
+2017-05-12T10:41:26.710Z,12.9187,-90.0611,16,6.2,mww,,22,1.111,1.03,us,us10008rtu,2017-08-01T23:02:31.040Z,"78 km SSW of Acajutla, El Salvador",earthquake,5.4,1.6,0.031,100,reviewed,us,us
+2017-05-01T14:18:15.290Z,59.8295,-136.7042,2.53,6.3,mww,,,,0.85,us,us10008mgu,2020-07-10T15:29:38.792Z,"48 km NW of Mosquito Lake, Alaska",earthquake,2.8,3.2,,,reviewed,pgc,us
+2017-05-01T12:31:55.590Z,59.8209,-136.7114,10,6.2,mww,,28,0.554,0.96,us,us10008mel,2020-07-10T15:29:08.724Z,"47 km NW of Mosquito Lake, Alaska",earthquake,4.1,1.7,,,reviewed,us,us
+2017-01-08T23:47:14.420Z,74.3859,-92.4156,31,6,mww,,17,0.732,0.78,us,us10007s20,2017-04-01T00:26:05.040Z,"Devon Island, Nunavut, Canada",earthquake,6.5,1.8,,,reviewed,us,us
+2016-12-08T14:49:45.910Z,40.4535,-126.1936,8.45,6.6,mww,,55,1.405,1.11,us,us20007z6r,2019-06-23T05:05:55.304Z,"164 km W of Ferndale, California",earthquake,6.1,2.4,,,reviewed,us,us
+2016-11-24T18:43:47.710Z,11.9097,-88.8968,10,6.9,mww,,20,1.796,1.02,us,us10007c4w,2017-02-15T23:21:39.040Z,"156 km SSW of Puerto El Triunfo, El Salvador",earthquake,5.6,1.6,,,reviewed,us,us
+2016-10-30T06:40:18.670Z,42.8621,13.0961,8,6.6,mww,,25,0.174,0.67,us,us1000731j,2021-08-15T07:19:20.856Z,"5 km ESE of Preci, Italy",earthquake,5.3,1.8,,,reviewed,us,us
+2016-10-26T19:18:08.430Z,42.9564,13.0666,10,6.1,mww,,17,0.081,0.71,us,us1000725y,2020-07-10T15:11:09.242Z,"2 km NNW of Visso, Italy",earthquake,4.7,1.7,,,reviewed,us,us
+2016-08-24T01:36:32.870Z,42.723,13.1877,4.44,6.2,mww,,25,0.123,0.68,us,us10006g7d,2021-01-07T12:54:03.512Z,"5 km WNW of Accumoli, Italy",earthquake,4.4,2.8,,,reviewed,us,us
+2016-06-21T16:26:34.420Z,22.6582,-45.1402,10,6.1,mww,,22,16.283,0.63,us,us200065s1,2016-11-10T22:16:44.503Z,"northern Mid-Atlantic Ridge",earthquake,9.4,1.7,,,reviewed,us,us
+2016-06-10T03:25:22.920Z,12.8318,-86.9633,10,6.1,mww,,39,0.159,1.04,us,us200063cy,2020-07-10T16:30:13.154Z,"Nicaragua",earthquake,5.3,1.7,,,reviewed,us,us
+2016-06-07T10:51:37.720Z,18.3637,-105.1731,10,6.3,mww,,56,1.383,1,us,us200062i1,2021-06-27T13:15:24.549Z,"106 km SSW of Barra de Navidad, Mexico",earthquake,5.5,1.7,,,reviewed,us,us
+2016-04-27T12:51:19.440Z,14.5178,-93.0882,16,6,mww,,40,0.885,1.3,us,us10005bxb,2016-11-10T22:15:34.159Z,"75 km WSW of Puerto Madero, Mexico",earthquake,4.9,1.7,,,reviewed,us,us
+2016-04-25T07:07:08.600Z,14.479,-93.1509,16,6,mww,,67,0.957,1.37,us,us20005li9,2016-11-10T22:15:32.487Z,"83 km WSW of Puerto Madero, Mexico",earthquake,3.5,1.7,,,reviewed,us,us
+2016-04-15T14:11:26.430Z,13.4008,-92.367,22.41,6.1,mww,,63,1.293,1.39,us,us20005ih9,2016-11-10T22:15:20.545Z,"110 km SSW of Champerico, Guatemala",earthquake,5.3,3,,,reviewed,us,us
+2016-04-02T05:50:00.932Z,57.008,-157.9322,11.4,6.2,mw,,,,0.9,ak,ak01649w95tp,2019-05-21T07:14:30.009Z,"42 km E of Port Heiden, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2016-03-19T11:26:33.230Z,17.996,-60.7019,26,6,mww,,27,1.082,1.16,us,us20005azy,2016-11-10T22:14:41.786Z,"126 km ENE of Codrington, Antigua and Barbuda",earthquake,6.4,1.7,,,reviewed,us,us
+2016-01-25T04:22:02.730Z,35.6493,-3.6818,12,6.3,mww,,20,2.201,0.92,us,us10004gy9,2020-07-10T14:59:40.266Z,"49 km NNE of Al Hoceïma, Morocco",earthquake,5.9,1.7,,,reviewed,us,us
+2016-01-24T10:30:29.557Z,59.6204,-153.3392,125.6,7.1,mw,,,,1.05,ak,ak01613v15nv,2020-07-07T22:45:53.847Z,"47 km ESE of Pedro Bay, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2016-01-21T18:06:57.650Z,18.8239,-106.9337,10,6.6,mww,,74,2.413,0.98,us,us10004g4l,2016-11-10T22:09:23.596Z,"203 km SW of La Cruz de Loreto, Mexico",earthquake,6.7,1.7,,,reviewed,us,us
+2015-12-17T19:49:53.050Z,15.8015,-93.633,85,6.6,mww,,35,0.41,1.37,us,us100047zq,2021-07-12T23:33:33.246Z,"4 km W of Manuel Ávila Camacho (Ponte Duro), Mexico",earthquake,4.9,1.8,,,reviewed,us,us
+2015-11-17T07:10:07.300Z,38.67,20.6,11,6.5,mww,,,,0.98,us,us10003ywp,2020-08-14T23:38:33.892Z,"19 km SSW of Lefkáda, Greece",earthquake,4.6,3,,,reviewed,ath,us
+2015-09-18T15:59:42.640Z,15.2767,-45.9886,10,6,mww,,37,13.328,0.94,us,us20003lc6,2016-11-10T21:52:38.153Z,"northern Mid-Atlantic Ridge",earthquake,9.4,1.8,,,reviewed,us,us
+2015-09-13T08:14:08.560Z,24.913,-109.6226,10,6.7,mww,,123,1.256,0.65,us,us20003j4u,2021-05-10T16:48:36.514Z,"95 km SW of Topolobampo, Mexico",earthquake,6.6,2,,,reviewed,us,us
+2015-09-10T10:26:44.810Z,52.0985,-169.5349,20,6,mww,,61,0.698,1.45,us,us20003hq5,2019-05-21T05:10:55.294Z,"104 km SSW of Nikolski, Alaska",earthquake,5.3,1.8,,,reviewed,us,us
+2015-07-29T02:35:59.449Z,59.8935,-153.1962,119.3,6.4,mw,,,,0.84,ak,ak0159nc9dk8,2020-07-09T21:08:47.883Z,"52 km ENE of Pedro Bay, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2015-07-27T04:49:46.400Z,52.376,-169.4458,29,6.9,mww,,39,0.444,1.12,us,us200030aq,2019-05-21T04:37:56.814Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,4.5,1.8,,,reviewed,us,us
+2015-07-16T15:16:33.780Z,13.8672,-58.5479,20,6.5,mww,,20,1.218,0.97,us,us20002xx1,2016-11-10T21:48:55.575Z,"128 km NE of Bathsheba, Barbados",earthquake,3.3,1.8,,,reviewed,us,us
+2015-05-29T07:00:09.634Z,56.594,-156.4301,72.6,6.8,mw,,,,0.85,ak,ak0156uj8rk3,2019-05-21T04:07:32.389Z,"117 km SSE of Ugashik, Alaska",earthquake,,0.8,,,reviewed,ak,ak
+2015-04-24T13:56:15.180Z,51.6148,-130.7714,8,6.2,mww,,69,1.743,1.24,us,us200028ue,2016-11-10T21:47:13.605Z,"282 km WNW of Port McNeill, Canada",earthquake,4.6,1.8,,,reviewed,us,us
+2015-02-22T14:23:12.720Z,18.6766,-106.848,5,6.2,mww,,70,5.399,0.7,us,usc000tsak,2015-05-12T20:29:39.040Z,"207 km WSW of José María Morelos, Mexico",earthquake,7.4,1.8,,,reviewed,us,us
+2015-02-13T18:59:12.230Z,52.6487,-31.9016,16.68,7.1,mww,,17,11.262,0.79,us,usb000tp5q,2018-10-17T20:58:05.580Z,"northern Mid-Atlantic Ridge",earthquake,6.8,1.4,,,reviewed,us,us
